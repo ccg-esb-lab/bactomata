@@ -1,13 +1,11 @@
 # BACTOMATA
 
-Repository for:
-
-**BACTOMATA: a modular pipeline for plate design, robotic liquid handling, data acquisition, and analysis in microbial experimental evolution**
+**A modular pipeline for plate design, robotic liquid handling, data acquisition, and analysis in microbial experimental evolution**
 
 
 ## Overview
 
-Here you can find the notebooks, source code, example layouts, and technical documentation for BACTOMATA, an open hardware/software pipeline for designing and running microbial experiments in multiwell plates.
+This repository contains the notebooks, source code, example layouts, and technical documentation for BACTOMATA, an open hardware/software pipeline for designing and running microbial experiments in multiwell plates.
 
 BACTOMATA connects plate layout design, OpenTrons robot script generation, BioTek plate-reader data parsing, and Python-based data analysis. The same layout files used to generate robot instructions are reused later to annotate the data, linking each absorbance or fluorescence measurement to the media and bacteria present in each well.
 
@@ -54,6 +52,7 @@ experiments/
 
 ## Authors
 Carles Tardío Pi and Rafael Peña-Miller.
+
 [@Systems Biology Lab, CCG-UNAM](https://github.com/ccg-esb-lab)
 
 ## License
