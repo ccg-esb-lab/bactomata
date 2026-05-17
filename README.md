@@ -18,7 +18,7 @@ The pipeline is organized around four modules:
 
 ## Documentation
 
-The technical documentation is provided as a PDF in [`docs/`](docs/).
+The technical documentation is provided as a PDF in [`BACTOMATA_TechnicalDocument.pdf`](docs/BACTOMATA_TechnicalDocument.pdf)
 
 The notebooks in [`notebooks/`](notebooks/) implement the main BACTOMATA workflows for plate generation, OpenTrons script generation, data loading, and data analysis.
 
